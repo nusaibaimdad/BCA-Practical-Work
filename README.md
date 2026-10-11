@@ -1,4 +1,2 @@
-# BCA-Practical-Work
-BCA practical work and assignments
-Name: Nusaiba Imdad
-Faculty no: 26CSBSAG522
+I'm a Computer Science and Applications student, learning about programming, technology, and different computer applications. I’m interested in exploring new things, improving my technical skills, and gaining practical experience through projects and learning opportunities.
+At the moment, I’m focused on building a strong foundation in my field, learning new skills, and making the most of the opportunities available to me as a student.
